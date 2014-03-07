@@ -1,4 +1,4 @@
 OnionExample
 ============
 
-Przyk³adowa aplikacja prezentuj¹ca zastosowanie Onion Architecture.
+An example of onion architecture - step by step.
